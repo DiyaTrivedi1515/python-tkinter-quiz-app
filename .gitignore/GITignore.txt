@@ -1,0 +1,24 @@
+# Python cache files
+_pycache_/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+env/
+
+# IDE/editor settings
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Python Egg files
+*.egg-info/
+dist/
+build/
